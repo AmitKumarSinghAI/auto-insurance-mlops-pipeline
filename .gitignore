@@ -1,0 +1,7 @@
+venv
+/venv
+.venv
+logs
+data.csv
+logger
+exception

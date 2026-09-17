@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+dvc
+mlflow 
+scikit-learn
+pandas
+pyyaml
+seaborn
+notebook
+dvc[s3] 
+awscli
+streamlit
+numpy
+matplotlib
+plotly
+ipykernel
+from_root
+dill
+certifi
+boto3
+mypy-boto3-s3
+botocore
+python-multipart
+jinja2
+imblearn
+pymongo[srv]==3.11
+-e .
